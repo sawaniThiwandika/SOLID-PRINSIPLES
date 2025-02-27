@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Liskov-Substitution-Principle/Liskov-Substitution-Principle.iml" filepath="$PROJECT_DIR$/Liskov-Substitution-Principle/Liskov-Substitution-Principle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OpenClose/OpenClose.iml" filepath="$PROJECT_DIR$/OpenClose/OpenClose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SOLID-PRINSIPLES.iml" filepath="$PROJECT_DIR$/SOLID-PRINSIPLES.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SingleResponsibility/SingleResponsibility.iml" filepath="$PROJECT_DIR$/SingleResponsibility/SingleResponsibility.iml" />
+    </modules>
+  </component>
+</project>
